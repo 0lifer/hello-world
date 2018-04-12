@@ -1,4 +1,4 @@
 # hello-world
 start up guide 
 
-blablabla
+this is my first code on github
